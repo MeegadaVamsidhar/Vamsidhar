@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Vamsidhar Reddy, a Computer Science and Engineering student at NIT Durgapur with a keen interest in web development, software engineering, and problem-solving. I enjoy building dynamic, user-friendly web applications and continuously expanding my skills in front-end and back-end technologies.<br><br>With a strong foundation in programming and a passion for learning, I actively explore new frameworks, contribute to projects, and engage in coding challenges. Currently honing my skills in HTML, CSS ,MERN Stack, I aim to create scalable and efficient digital solutions.<br><br>Excited to collaborate, innovate, and grow in the world of technology! Let's connect and build something amazing together.
+# Hi, I'm Vamsidhar Reddy,
+A Computer Science and Engineering student at NIT Durgapur with a keen interest in web development, software engineering, and problem-solving. I enjoy building dynamic, user-friendly web applications and continuously expanding my skills in front-end and back-end technologies.<br><br>With a strong foundation in programming and a passion for learning, I actively explore new frameworks, contribute to projects, and engage in coding challenges. Currently honing my skills in HTML, CSS ,MERN Stack, I aim to create scalable and efficient digital solutions.<br><br>Excited to collaborate, innovate, and grow in the world of technology! Let's connect and build something amazing together.
 
 
 ## 🌐 Socials:
