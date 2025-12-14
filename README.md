@@ -68,17 +68,15 @@ With a solid foundation in programming and a strong learning mindset, I actively
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeegadaVamsidhar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeegadaVamsidhar&show_icons=true&theme=radical&hide_border=false)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MeegadaVamsidhar&theme=radical&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=MeegadaVamsidhar&theme=radical&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeegadaVamsidhar&theme=radical&hide_border=false&layout=compact)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeegadaVamsidhar&theme=radical&layout=compact&hide_border=false)
 
 ## 👀 Profile Views
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=MeegadaVamsidhar&icon=9&color=9)](https://visitcount.itsvg.in)
+[![Profile Views](https://meegadavamsidhar.github.io/Vamsidhar_Portfolio/)](https://visitcount.itsvg.in)
 
 ---
 
