@@ -76,7 +76,7 @@ With a solid foundation in programming and a strong learning mindset, I actively
 
 ## 👀 Profile Views
 
-[![Profile Views](https://meegadavamsidhar.github.io/Vamsidhar_Portfolio/)](https://visitcount.itsvg.in)
+[![Profile Views](https://meegadavamsidhar.github.io/Vamsidhar_Portfolio/)](https://meegadavamsidhar.github.io/Vamsidhar_Portfolio/)
 
 ---
 
